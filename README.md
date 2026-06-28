@@ -1,7 +1,7 @@
-# Valid Predictive Frontiers: Review Materials
+# Calibrated Uncertainty: Review Materials
 
 This repository contains reviewer-facing code and source data for the manuscript
-`Valid predictive frontiers for language-model predictions of human outcomes`.
+`Calibrated uncertainty reveals limits of language models in human-outcome prediction`.
 
 The repository is intentionally compact. It contains the numerical source data
 behind the main figures, main table, selected supplementary displays, and the
@@ -56,4 +56,3 @@ review-facing repository are cached derived data rather than a request to rerun
 provider APIs. Provider-restricted raw text completions are excluded from this
 repository; parsed outputs and derived numerical tables are included for
 checking the reported results.
-
