@@ -1,0 +1,96 @@
+dataset_name,coverage_target,target_budget,n_cells,n_disagree,disagreement_rate
+ACS income,0.8,60,10,0,0.0
+ACS income,0.8,120,10,0,0.0
+ACS income,0.8,240,10,0,0.0
+ACS income,0.8,480,10,0,0.0
+ACS income,0.8,960,10,0,0.0
+ACS income,0.9,60,10,0,0.0
+ACS income,0.9,120,10,0,0.0
+ACS income,0.9,240,10,0,0.0
+ACS income,0.9,480,10,0,0.0
+ACS income,0.9,960,10,0,0.0
+ANES96 vote,0.8,30,10,10,1.0
+ANES96 vote,0.8,40,10,10,1.0
+ANES96 vote,0.8,60,10,8,0.8
+ANES96 vote,0.8,80,10,8,0.8
+ANES96 vote,0.8,100,10,9,0.9
+ANES96 vote,0.8,120,10,9,0.9
+ANES96 vote,0.8,140,10,8,0.8
+ANES96 vote,0.9,40,10,7,0.7
+ANES96 vote,0.9,60,10,7,0.7
+ANES96 vote,0.9,80,10,8,0.8
+ANES96 vote,0.9,100,10,7,0.7
+ANES96 vote,0.9,120,10,6,0.6
+ANES96 vote,0.9,140,10,7,0.7
+Adult income,0.8,30,10,9,0.9
+Adult income,0.8,40,10,8,0.8
+Adult income,0.8,60,10,10,1.0
+Adult income,0.8,80,10,9,0.9
+Adult income,0.8,100,10,8,0.8
+Adult income,0.8,120,10,9,0.9
+Adult income,0.9,40,9,7,0.7777777777777778
+Adult income,0.9,60,10,6,0.6
+Adult income,0.9,80,9,5,0.5555555555555556
+Adult income,0.9,100,10,7,0.7
+Adult income,0.9,120,10,9,0.9
+Fair affairs,0.8,30,10,9,0.9
+Fair affairs,0.8,40,10,8,0.8
+Fair affairs,0.8,60,10,10,1.0
+Fair affairs,0.8,80,10,9,0.9
+Fair affairs,0.8,100,10,8,0.8
+Fair affairs,0.8,120,9,7,0.7777777777777778
+Fair affairs,0.8,140,10,6,0.6
+Fair affairs,0.9,40,10,7,0.7
+Fair affairs,0.9,60,10,8,0.8
+Fair affairs,0.9,80,10,5,0.5
+Fair affairs,0.9,100,10,7,0.7
+Fair affairs,0.9,120,10,7,0.7
+Fair affairs,0.9,140,10,6,0.6
+Fertility demography,0.8,30,10,1,0.1
+Fertility demography,0.8,40,10,2,0.2
+Fertility demography,0.8,60,10,1,0.1
+Fertility demography,0.8,80,10,2,0.2
+Fertility demography,0.8,100,10,2,0.2
+Fertility demography,0.9,40,10,1,0.1
+Fertility demography,0.9,60,10,1,0.1
+Fertility demography,0.9,80,10,1,0.1
+Fertility demography,0.9,100,10,1,0.1
+Modechoice car,0.8,30,10,3,0.3
+Modechoice car,0.8,40,10,3,0.3
+Modechoice car,0.8,60,10,4,0.4
+Modechoice car,0.8,80,10,3,0.3
+Modechoice car,0.8,100,10,7,0.7
+Modechoice car,0.8,120,10,6,0.6
+Modechoice car,0.9,40,10,5,0.5
+Modechoice car,0.9,60,10,5,0.5
+Modechoice car,0.9,80,10,5,0.5
+Modechoice car,0.9,100,10,8,0.8
+Modechoice car,0.9,120,10,5,0.5
+RAND HIE visits,0.8,30,10,10,1.0
+RAND HIE visits,0.8,40,10,10,1.0
+RAND HIE visits,0.8,60,10,10,1.0
+RAND HIE visits,0.8,80,10,10,1.0
+RAND HIE visits,0.8,100,10,8,0.8
+RAND HIE visits,0.8,120,10,9,0.9
+RAND HIE visits,0.8,140,10,9,0.9
+RAND HIE visits,0.9,40,10,8,0.8
+RAND HIE visits,0.9,60,10,10,1.0
+RAND HIE visits,0.9,80,10,8,0.8
+RAND HIE visits,0.9,100,10,7,0.7
+RAND HIE visits,0.9,120,10,6,0.6
+RAND HIE visits,0.9,140,10,7,0.7
+Star98 education,0.8,30,8,1,0.125
+Star98 education,0.8,40,9,1,0.1111111111111111
+Star98 education,0.8,60,9,1,0.1111111111111111
+Star98 education,0.8,80,10,1,0.1
+Star98 education,0.8,100,9,1,0.1111111111111111
+Star98 education,0.8,120,9,1,0.1111111111111111
+Star98 education,0.8,140,10,1,0.1
+Star98 education,0.8,160,10,1,0.1
+Star98 education,0.9,40,10,2,0.2
+Star98 education,0.9,60,10,2,0.2
+Star98 education,0.9,80,10,2,0.2
+Star98 education,0.9,100,10,2,0.2
+Star98 education,0.9,120,10,2,0.2
+Star98 education,0.9,140,10,2,0.2
+Star98 education,0.9,160,10,2,0.2

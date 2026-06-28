@@ -1,0 +1,19 @@
+task_id,method_family,coverage_target,coverage,mean_set_size,point_risk,interval_ratio_to_reference,rmse_ratio_to_reference,method_id,task_label,method_family_label
+fair_affairs_rate,llm_cached,0.8,0.95,4.699999999999999,1.872084060509685,4.385757256650922,1.8378221709783173,cached_llm_realreg_calibrated_numeric,Fair affairs count,MiniMax fixed
+fair_affairs_rate,llm_prompt_optimized,0.8,0.9333333333333332,4.699999999999999,1.779529238576249,4.385757256650922,1.7469612383052897,cached_llm_promptopt_realreg_gen1_seed_zero_inflated_calibrated_tight_residuals,Fair affairs count,MiniMax optimized
+fair_affairs_rate,reference,0.8,0.85,1.0716507378224214,1.018642657637071,1.0,1.0,quantile_gradient_boosting_cqr,Fair affairs count,Reference
+fair_affairs_rate,llm_cached,0.9,0.95,4.699999999999999,1.872084060509685,2.3758761900050693,1.4774634634136212,cached_llm_realreg_calibrated_numeric,Fair affairs count,MiniMax fixed
+fair_affairs_rate,llm_prompt_optimized,0.9,0.9333333333333332,4.699999999999999,1.779529238576249,2.3758761900050693,1.4044184700535605,cached_llm_promptopt_realreg_gen1_seed_zero_inflated_calibrated_tight_residuals,Fair affairs count,MiniMax optimized
+fair_affairs_rate,reference,0.9,0.8833333333333333,1.9782175602298413,1.2670933034000775,1.0,1.0,quantile_gradient_boosting_cqr,Fair affairs count,Reference
+fertility_2011_total_fertility_rate,llm_cached,0.8,0.7833333333333333,0.2599999999999998,0.14601832076832,3.4704284601885558,3.019812075906839,cached_llm_realreg_original_numeric,Fertility rate,MiniMax fixed
+fertility_2011_total_fertility_rate,llm_prompt_optimized,0.8,0.8166666666666667,0.2980000000000001,0.1956550536019962,3.977644927446888,4.046351789765935,cached_llm_promptopt_realreg_seed_original_numeric,Fertility rate,MiniMax optimized
+fertility_2011_total_fertility_rate,reference,0.8,0.8,0.0749187032617504,0.048353446207235,1.0,1.0,lasso_abs_conformal,Fertility rate,Reference
+fertility_2011_total_fertility_rate,llm_cached,0.9,0.9,0.4799999999999995,0.132599208142432,3.3275821671730905,2.7422907474708915,cached_llm_realreg_calibrated_numeric,Fertility rate,MiniMax fixed
+fertility_2011_total_fertility_rate,llm_prompt_optimized,0.9,0.9125,0.7240000000000002,0.214012149187844,5.0191031021527515,4.425995786745432,cached_llm_promptopt_realreg_seed_original_numeric,Fertility rate,MiniMax optimized
+fertility_2011_total_fertility_rate,reference,0.9,0.875,0.1442488797828178,0.048353446207235,1.0,1.0,lasso_abs_conformal,Fertility rate,Reference
+randhie_physician_visit_count,llm_cached,0.8,0.8,4.7,2.4510201957552287,0.8056813475211826,0.6712108692480356,cached_llm_realreg_calibrated_numeric,RAND HIE visits,MiniMax fixed
+randhie_physician_visit_count,llm_prompt_optimized,0.8,0.8,6.24,3.007065845637571,1.0696705550068466,0.823483741028317,cached_llm_promptopt_realreg_seed_count_calibrated,RAND HIE visits,MiniMax optimized
+randhie_physician_visit_count,reference,0.8,0.9,5.833571814043306,3.651639608430554,1.0,1.0,quantile_gradient_boosting_cqr,RAND HIE visits,Reference
+randhie_physician_visit_count,llm_cached,0.9,0.8875,6.4,2.783208580038514,0.9278324702719252,1.040564040796314,cached_llm_realreg_calibrated_numeric,RAND HIE visits,MiniMax fixed
+randhie_physician_visit_count,llm_prompt_optimized,0.9,0.875,6.4,2.9301478205032594,0.9278324702719252,1.0955005234250867,cached_llm_promptopt_realreg_seed_count_calibrated,RAND HIE visits,MiniMax optimized
+randhie_physician_visit_count,reference,0.9,0.925,6.897796967726637,2.674711474661957,1.0,1.0,quantile_gradient_boosting_cqr,RAND HIE visits,Reference

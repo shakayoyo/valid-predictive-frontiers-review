@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+reproduced_figures/
+.DS_Store
+Thumbs.db
+

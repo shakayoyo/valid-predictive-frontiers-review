@@ -1,0 +1,9 @@
+run_label,task,n_cells,n_disagree,rate
+minimax_anes_schema_budgetgrid,ANES96,130,120,0.9230769230769231
+minimax_fair_schema_budgetgrid,Fair,130,99,0.7615384615384615
+minimax_randhie_schema_budgetgrid,RAND HIE,130,123,0.9461538461538461
+minimax_modechoice_schema_budgetgrid,Modechoice,110,73,0.6636363636363637
+minimax_star98_schema_budgetgrid,Star98,150,95,0.6333333333333333
+minimax_fertility_schema_budgetgrid,Fertility,90,61,0.6777777777777778
+minimax_adult_schema_budgetgrid,Adult,130,117,0.9
+minimax_acs_schema_budgetgrid,ACS,100,87,0.87

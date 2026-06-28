@@ -1,0 +1,13 @@
+target_prompt_search_family,coverage_target,target_budget,n_cells,n_bracket_disagree,bracket_disagreement_rate,fess_above_fixed_grid,ress_above_fixed_grid,mean_fess_minus_ress_order,median_fess_bracket_order,median_ress_bracket_order
+component_grid,0.8,40,3,2,0.6666666666666666,1,2,-13.333333333333334,60.0,100.0
+component_grid,0.8,80,3,3,1.0,1,1,6.666666666666667,60.0,60.0
+component_grid,0.9,40,3,1,0.3333333333333333,1,2,-20.0,40.0,100.0
+component_grid,0.9,80,3,2,0.6666666666666666,2,1,20.0,100.0,60.0
+oprolite_minimax,0.8,40,3,2,0.6666666666666666,1,0,26.666666666666668,60.0,40.0
+oprolite_minimax,0.8,80,3,3,1.0,2,0,26.666666666666668,100.0,60.0
+oprolite_minimax,0.9,40,3,0,0.0,0,0,0.0,40.0,40.0
+oprolite_minimax,0.9,80,3,3,1.0,1,0,13.333333333333334,60.0,60.0
+seed_selection,0.8,40,3,0,0.0,0,0,0.0,40.0,40.0
+seed_selection,0.8,80,3,2,0.6666666666666666,0,0,0.0,60.0,60.0
+seed_selection,0.9,40,3,0,0.0,0,0,0.0,40.0,40.0
+seed_selection,0.9,80,3,3,1.0,0,0,-6.666666666666667,40.0,60.0
